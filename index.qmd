@@ -1,11 +1,40 @@
 ---
-title: "QinyaFeng.github.io"
+title: "Qinya Feng (冯沁雅）"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: solana
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: "{{< iconify fa6-brands square-x-twitter >}}"
+      href: https://x.com/QinyaFeng
+    - icon: linkedin
+      href: https://www.linkedin.com/in/qinya-feng-b8647b139/
 ---
 
-This is a Quarto website.
+## Hi there!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my website! My name is Qinya (approximatly pronounced as /chinya/). I am currently a PhD student in Political Science at the [Department of Government, Uppsala University](https://www.uu.se/institution/statsvetenskapliga/). I am affiliated with the Swedish Research Council funded project [The genetics of life course outcomes: Leveraging new methods to advance social-science genomics](https://www.uu.se/en/department/government/research/the-genetics-of-life-course-outcomes-leveraging-new-methods-to-advance-social-science-genomics).
 
-```{r}
-1 + 1
-```
+### Research interests
+My research fields are political psychology and social science genomics.
+
+
+### Publications
+<p style="display: inline;">
+  Feng, Q. (2024). Triangulating the Relationship Between Education and Attitudes Toward Immigration. Journal of Experimental Political Science, 1-16.
+  <span style="margin-left: 6px;">
+    <a href="https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/triangulating-the-relationship-between-education-and-attitudes-toward-immigration/23AA6130A08BB1CA520F74DFC515F243" class="btn btn-outline-secondary" role="button" style="margin-right: 6px; display: inline-block;">Paper</a>
+    <a href="https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS2052263024000071/resource/name/S2052263024000071sup001.pdf" class="btn btn-outline-secondary" role="button" style="margin-right: 6px; display: inline-block;">Appendix</a>
+    <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/897XEW" class="btn btn-outline-secondary" role="button" style="display: inline-block;">Replication Package</a>
+  </span>
+</p>
+
+### Education
+2018-2019 Msc in Public Policy, [University College London](https://www.ucl.ac.uk/political-science/) 
+ 
+2014-2018 Bsc in Public Administration (Land Resource Management), [Nanjing Agricultural University](https://clm.njau.edu.cn/) 
+
+
+
