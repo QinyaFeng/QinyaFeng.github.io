@@ -5,3 +5,22 @@ img {
     float: left; /* Makes the text wrap around the image */
     border-radius: 50%; /* Optional: Makes the image round if it's not already */
 }
+
+
+:root {
+  --bs-primary: #072BB8; /* an approximate Klein blue */
+  --bs-link-color: #072BB8;
+  --purple-color: #6a5acd; 
+}
+
+/* Link color */
+a {
+    color: inherit; /* Inherit the color from the parent element */
+    text-decoration: underline; 
+}
+
+
+/* Navbar color */
+.navbar {
+  background-color: var(--bs-primary);
+}

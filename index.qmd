@@ -11,15 +11,20 @@ about:
       href: https://x.com/QinyaFeng
     - icon: linkedin
       href: https://www.linkedin.com/in/qinya-feng-b8647b139/
+    - icon: mailbox
+      href: mailto:qinya.feng@statsvet.uu.se
 ---
 
-## Hi there!
+## Welcome!
 
-Welcome to my website! My name is Qinya (approximatly pronounced as /chinya/). I am currently a PhD student in Political Science at the [Department of Government, Uppsala University](https://www.uu.se/institution/statsvetenskapliga/). I am affiliated with the Swedish Research Council funded project [The genetics of life course outcomes: Leveraging new methods to advance social-science genomics](https://www.uu.se/en/department/government/research/the-genetics-of-life-course-outcomes-leveraging-new-methods-to-advance-social-science-genomics).
+My name is Qinya (approximatly pronounced as /'chinya/). I am currently a PhD student in Political Science at the [Department of Government, Uppsala University](https://www.uu.se/institution/statsvetenskapliga/). I am affiliated with the Swedish Research Council funded project [The genetics of life course outcomes: Leveraging new methods to advance social-science genomics](https://www.uu.se/en/department/government/research/the-genetics-of-life-course-outcomes-leveraging-new-methods-to-advance-social-science-genomics).
+
+<br> <!-- -->
 
 ### Research interests
-My research fields are political psychology and social science genomics.
+My main research fields are political psychology and social science genomics. I am particularly interested in the development of political attitudes, behaviour, and psychological traits that are related to social diversity and intergroup relations. In my PhD dissertation, I focus on attitudes towards immigration and social trust, integrating perspectives from both political inquiries and social science genomics.
 
+<br> <!-- -->
 
 ### Publications
 <p style="display: inline;">
@@ -30,6 +35,15 @@ My research fields are political psychology and social science genomics.
     <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/897XEW" class="btn btn-outline-secondary" role="button" style="display: inline-block;">Replication Package</a>
   </span>
 </p>
+
+<details>
+  <summary>Abstract</summary>
+Education is widely believed to predict attitudes toward immigration, but what causal relationship underlies this descriptive pattern? This research employs three distinct natural experiments and considers genetic factors to triangulate this relationship: Study 1 analyses discordant monozygotic twins; Study 2 assesses the impact of a Swedish education reform; and Study 3 analyses dizygotic twins with the use of a polygenic index for education, a DNA-based measure for genetic predispositions toward education. The results indicate that education does modestly promote open views toward immigration (Study 1), yet the reform’s effect remains uncertain (Study 2). Study 3 offers direct evidence of the effects of genetic predispositions and suggests that genetics related to education may influence attitudes beyond achieved educational attainment. These findings confirm the positive impact of education while pointing to the combined influence of genetic and social pathways in shaping immigration attitudes.
+
+*"Although Study 2 on the reform may be underpowered thus compromising the result comparison between the reform and MZ-twin studies, contrasting the significant effects observed in the MZ-twin study with the null effect of high school and university in longitudinal studies with adolescents and young adults suggests that education may have more political significance in midlife. This implies that theories concerning long-term downstream mechanisms, such as “education-as-cleavage” and educational disparities in receptivity to elite messaging (Cavaille and Marshall, 2019, p. 262), may be more plausible."*
+</details>
+
+<br> <!-- -->
 
 ### Education
 2018-2019 Msc in Public Policy, [University College London](https://www.ucl.ac.uk/political-science/) 
