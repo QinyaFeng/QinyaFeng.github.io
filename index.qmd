@@ -31,28 +31,64 @@ My main research fields are political psychology and social science genomics. I 
 
 <p style="display: inline;">
 
-Feng, Q. (2024). Triangulating the Relationship Between Education and Attitudes Toward Immigration. Journal of Experimental Political Science, 1-16. [<a href="https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/triangulating-the-relationship-between-education-and-attitudes-toward-immigration/23AA6130A08BB1CA520F74DFC515F243" class="btn btn-outline-secondary" role="button" style="margin-right: 6px; display: inline-block;">Paper</a> <a href="https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS2052263024000071/resource/name/S2052263024000071sup001.pdf" class="btn btn-outline-secondary" role="button" style="margin-right: 6px; display: inline-block;">Appendix</a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/897XEW" class="btn btn-outline-secondary" role="button" style="display: inline-block;">Replication Package</a>]{style="margin-left: 6px;"}
-
-</p>
-
-<details>
-
-<summary>Abstract</summary>
-
-Education is widely believed to predict attitudes toward immigration, but what causal relationship underlies this descriptive pattern? This research employs three distinct natural experiments and considers genetic factors to triangulate this relationship: Study 1 analyses discordant monozygotic twins; Study 2 assesses the impact of a Swedish education reform; and Study 3 analyses dizygotic twins with the use of a polygenic index for education, a DNA-based measure for genetic predispositions toward education. The results indicate that education does modestly promote open views toward immigration (Study 1), yet the reform's effect remains uncertain (Study 2). Study 3 offers direct evidence of the effects of genetic predispositions and suggests that genetics related to education may influence attitudes beyond achieved educational attainment. These findings confirm the positive impact of education while pointing to the combined influence of genetic and social pathways in shaping immigration attitudes.
-
-*"Although Study 2 on the reform may be underpowered thus compromising the result comparison between the reform and MZ-twin studies, contrasting the significant effects observed in the MZ-twin study with the null effect of high school and university in longitudinal studies with adolescents and young adults suggests that education may have more political significance in midlife. This implies that theories concerning long-term downstream mechanisms, such as"education-as-cleavage" and educational disparities in receptivity to elite messaging (Cavaille and Marshall, 2019, p. 262), may be more plausible."*
-
-</details>
-
-<br> <!-- -->
-
-<p style="display: inline;">
-
-Feng, Q. (2025). <i>A Genetically Informed Approach to Trust and Attitudes towards Immigration: Studies on Swedish Twins in the Age of Immigration and Diversity</i> (Doctoral dissertation, Acta Universitatis Upsaliensis).
-  <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1949729&dswid=3339" style="margin-left: 6px;">[Link]</a>
+  Feng, Q. (2025). 
+  <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1949729&dswid=3339" style="margin-left: 6px; text-decoration: none;">
+    <i>A Genetically Informed Approach to Trust and Attitudes towards Immigration: Studies on Swedish Twins in the Age of Immigration and Diversity</i>
+  </a> 
+  (Doctoral dissertation, Acta Universitatis Upsaliensis).
   
 </p>
+
+
+<p style="display: inline;">
+  Feng, Q. (2024). Triangulating the Relationship Between Education and Attitudes Toward Immigration.
+  <i>Journal of Experimental Political Science</i>, 1–16.
+</p>
+
+<!-- Horizontal Button Group -->
+<div style="display: flex; gap: 6px; margin-top: 6px; margin-bottom: 6px;">
+  <a href="https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/triangulating-the-relationship-between-education-and-attitudes-toward-immigration/23AA6130A08BB1CA520F74DFC515F243"
+     role="button"
+     style="font-family: Georgia, serif; color: #002FA7; border: 1px solid #002FA7; border-radius: 4px; background-color: transparent; text-decoration: none; padding: 4px 10px;">
+     Paper
+  </a>
+
+  <a href="https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS2052263024000071/resource/name/S2052263024000071sup001.pdf"
+     role="button"
+     style="font-family: Georgia, serif; color: #002FA7; border: 1px solid #002FA7; border-radius: 4px; background-color: transparent; text-decoration: none; padding: 4px 10px;">
+     Appendix
+  </a>
+
+  <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/897XEW"
+     role="button"
+     style="font-family: Georgia, serif; color: #002FA7; border: 1px solid #002FA7; border-radius: 4px; background-color: transparent; text-decoration: none; padding: 4px 10px;">
+     Replication Package
+  </a>
+</div>
+
+<!-- Styled <summary> tab -->
+<details style="margin-top: 4px; font-family: Georgia, serif;">
+  <summary style="
+    list-style: disclosure closed;
+    color: #002FA7;
+    font-family: Georgia, serif;
+    padding: 4px 10px;
+    border-radius: 4px;
+    background-color: transparent;
+    cursor: pointer;
+    display: list-item;
+    width: fit-content;
+  ">
+    Abstract
+  </summary>
+
+  <p style="margin-top: 6px;">
+    Education is widely believed to predict attitudes toward immigration, but what causal relationship underlies this descriptive pattern? This research employs three distinct natural experiments and considers genetic factors to triangulate this relationship: Study 1 analyses discordant monozygotic twins; Study 2 assesses the impact of a Swedish education reform; and Study 3 analyses dizygotic twins with the use of a polygenic index for education, a DNA-based measure for genetic predispositions toward education. The results indicate that education does modestly promote open views toward immigration (Study 1), yet the reform's effect remains uncertain (Study 2). Study 3 offers direct evidence of the effects of genetic predispositions and suggests that genetics related to education may influence attitudes beyond achieved educational attainment. These findings confirm the positive impact of education while pointing to the combined influence of genetic and social pathways in shaping immigration attitudes.
+  </p>
+
+  <p><em>"Although Study 2 on the reform may be underpowered thus compromising the result comparison between the reform and MZ-twin studies, contrasting the significant effects observed in the MZ-twin study with the null effect of high school and university in longitudinal studies with adolescents and young adults suggests that education may have more political significance in midlife. This implies that theories concerning long-term downstream mechanisms, such as 'education-as-cleavage' and educational disparities in receptivity to elite messaging (Cavaille and Marshall, 2019, p. 262), may be more plausible."</em></p>
+</details>
+
 
 ### Education
 
