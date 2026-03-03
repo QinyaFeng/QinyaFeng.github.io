@@ -1,14 +1,48 @@
 /* css styles */
 
-img {
-    margin-right: 20px; /* Adjust this value as needed for spacing */
-    float: left; /* Makes the text wrap around the image */
-    border-radius: 50%; /* Optional: Makes the image round if it's not already */
+/* Font family */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&display=swap');
+
+body {
+  font-family: 'EB Garamond', serif;
 }
 
+/* Title size */
+.about-entity h1 {
+  font-size: 1.8rem;
+}
 
+/* Text width */
+.about-entity .about-contents {
+  max-width: 75ch;
+}
+
+/* Head image parameters */
+img {
+    margin-right: 25px; /* Adjust this value as needed for spacing */
+    margin-left: 25px;
+    float: left; /* Makes the text wrap around the image */
+    border-radius: 30%; /* Makes the image round if it's not already */
+}
+
+/* Media icon style */
+.about-links a {
+  font-size: 1.6rem;
+  color: #888;
+  margin-right: -15px;
+  border: none !important;
+  outline: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.about-contents p {
+  margin-bottom: 0.5rem;
+}
+
+/* Colors */
 :root {
-  --bs-primary: #072BB8; /* an approximate Klein blue */
+  --bs-primary: rgb(7 43 184 / 90%); /* an approximate Klein blue */
   --bs-link-color: #072BB8;
   --purple-color: #6a5acd; 
 }
@@ -16,11 +50,10 @@ img {
 /* Link color */
 a {
     color: inherit; /* Inherit the color from the parent element */
-    text-decoration: underline; 
 }
-
 
 /* Navbar color */
 .navbar {
   background-color: var(--bs-primary);
 }
+
